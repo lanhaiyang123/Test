@@ -1,2 +1,6 @@
 hello duanxiudong
+<<<<<<< HEAD
 0000000
+=======
+hello zhanghainan
+>>>>>>> first commit
